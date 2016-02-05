@@ -1,7 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Oleo+Script);
 body {
 	background-color: #B0FFF9;
+	background: url('images/babykiss.jpg');
+	background-size: cover;
+	text-align: center;
 }
 
 h1, p {
 	color: #010303;
+}
+#slogan {
+	font-family: 'Oleo Script', cursive;
 }
